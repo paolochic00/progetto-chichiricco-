@@ -1,0 +1,76 @@
+body { 
+	font-family:"Roboto", sans-serif;
+	font-size: 18px;
+	margin: 0;
+}
+
+
+.bg-gray-Light {
+	background-color: #F1F1F1;
+} 
+
+.bg-gray-dark {
+	background-color: #333;
+}
+
+.bg-pink {
+	background-color: #BF8C6F;
+}
+
+.txt-light {
+	color: #DDD;
+}
+
+.bg-home {
+	background-image: url("../img/homepage.jpg"); 
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 750px;
+}
+
+nav a, .link-decoration {
+	text-decoration: none;
+} 
+
+a:hover {
+	text-decoration: none;
+}
+
+nav a:hover, .link-decoration:hover {
+	text-decoration: underline;
+}
+
+.txt-center {
+	text-align: center;
+}
+
+
+.padding-space {
+	padding: 3%;
+}
+
+.padding-s {
+	padding: 1% 2%;
+}
+
+.img-center {
+	display: block;
+	margin: 0 auto;
+}
+
+.img-s {
+	width: 10%;
+}
+
+.border-r-0 {
+	border-radius: 0 !important;
+
+{
+
+
+
+
+
+
+
+
